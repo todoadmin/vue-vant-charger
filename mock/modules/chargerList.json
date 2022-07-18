@@ -1,0 +1,116 @@
+{
+    "code": 0,
+    "message": "成功",
+    "data": {
+        "total": 9,
+        "current": 1,
+        "size": 10,
+        "page": 1,
+        "list": [
+            {
+                "id": 1,
+                "price": 0.85,
+                "fastTotal": 10,
+                "fastUse": 6,
+                "slowTotal": 0,
+                "slowUse": 4,
+                "title": "南方电网充电站(梦之岛水晶城站)",
+                "address": "广西南宁市青秀区金湖路61号梦之岛负2层停车场内",
+                "tips": "充电车辆3小时免费停车",
+                "tags": "VIP折扣,低价,充电险,赠送礼品,连锁店",
+                "distance": 9275
+            },
+            {
+                "id": 3,
+                "price": 1.2,
+                "fastTotal": 8,
+                "fastUse": 5,
+                "slowTotal": 5,
+                "slowUse": 2,
+                "title": "南方电网充电站(南宁市新朝阳广场)",
+                "address": "广西南宁市兴宁区朝阳路38号",
+                "tips": "充电时长内免费",
+                "tags": "限时优惠,免费保养,送大米,送电卡",
+                "distance": 4758
+            },
+            {
+                "id": 4,
+                "price": 1,
+                "fastTotal": 20,
+                "fastUse": 16,
+                "slowTotal": 0,
+                "slowUse": 5,
+                "title": "星星充电充电站(大商汇美丽站)",
+                "address": "广西南宁市西乡塘区安吉街道新希望路新希望·大商汇",
+                "tips": "免费1小时，超过后每小时5元",
+                "tags": "VIP折扣,免费洗车,0元团购,免费保养",
+                "distance": 3163
+            },
+            {
+                "id": 5,
+                "price": 0.8,
+                "fastTotal": 12,
+                "fastUse": 11,
+                "slowTotal": 0,
+                "slowUse": 1,
+                "title": "云快充充电站(步步高)",
+                "address": "民族大道137号永凯大厦地面广场西面停车场",
+                "tips": "每小时停车6元",
+                "tags": "低价,充电险,限时优惠",
+                "distance": 11673
+            },
+            {
+                "id": 6,
+                "price": 0.56,
+                "fastTotal": 6,
+                "fastUse": 6,
+                "slowTotal": 4,
+                "slowUse": 4,
+                "title": "南方电网充电站(南宁市广西民族大学)",
+                "address": "南宁市西乡塘区广场东路188号",
+                "tips": "免费停车",
+                "tags": "免费洗车,限时优惠,连锁店",
+                "distance": 6059
+            },
+            {
+                "id": 7,
+                "price": 0.7,
+                "fastTotal": 10,
+                "fastUse": 6,
+                "slowTotal": 0,
+                "slowUse": 3,
+                "title": "祥和苑充电桩(快充)",
+                "address": "南宁市青秀区民族大道151号祥和苑6号楼附近",
+                "tips": "每小时停车费3元",
+                "tags": "低价,免费保养,赠送积分,送大米",
+                "distance": 12474
+            },
+            {
+                "id": 8,
+                "price": 0.65,
+                "fastTotal": 20,
+                "fastUse": 18,
+                "slowTotal": 5,
+                "slowUse": 4,
+                "title": "鼎充充电站(华南城)",
+                "address": "南宁市江南区新乐路华南城乾龙物流园",
+                "tips": "免费停车",
+                "tags": "VIP折扣,低价,充电险",
+                "distance": 7430
+            },
+            {
+                "id": 9,
+                "price": 0.92,
+                "fastTotal": 15,
+                "fastUse": 11,
+                "slowTotal": 10,
+                "slowUse": 8,
+                "title": "南方电网充电站(南宁市南湖名都广场)",
+                "address": "南宁市青秀区双拥路30号",
+                "tips": "每小时停车费5元",
+                "tags": "充电险,限时优惠,0元团购,免费保养,赠送积分",
+                "distance": 8583
+            }
+        ]
+    }
+}

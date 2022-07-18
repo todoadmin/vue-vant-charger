@@ -1,0 +1,26 @@
+{
+    "code": 0,
+    "message": "成功",
+    "data": {
+        "id": 2807,
+        "uqid": 584,
+        "uid": 2,
+        "statusType": 1,
+        "createTime": 1651815032,
+        "levels": 2,
+        "balance": 135.65,
+        "payMoney": 2560.5,
+        "payCoupon": 362.5,
+        "cashCoupon": 410.5,
+        "points": 6541,
+        "chargeTotal": 2945.6,
+        "chargeMoney": 2340.5,
+        "chargeLen": 1296010,
+        "chargeNum": 296,
+        "username": "coderVision",
+        "truename": "程序猿",
+        "nickname": "程序猿视觉",
+        "avatarName": "9",
+        "remark": "别让我一个醉，也别让我撕心裂肺！"
+    }
+}
